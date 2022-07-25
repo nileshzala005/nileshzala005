@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nilesh Zal
+- 👋 Hi, I’m Nilesh Zala
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on front end development work
 - 📫 How to reach me 
